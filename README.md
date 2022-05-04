@@ -1,5 +1,5 @@
 # majsoul-score-display
-A really inefficient, roundabout way to try and pull the current score in a live mahjongsoul match, apply rank bonuses and output it in a way suitable for casting. In python!
+A really inefficient, roundabout way to try and pull the current score in a live mahjongsoul match, apply rank bonuses (shared on a tie, not seat priority) and output it in a way suitable for casting. In python!
 
 It was a good excuse for me to try and learn python while making something at least slightly useful to someone, hopefully, ahaha. It requires that the game you're spectating is happening on the main monitor of a multi monitor setup and it's tailored to my screen resolution (1920 by 1080) although it's definitely possible to go in and edit values for which pixels pyatuogui should be looking for.
 
