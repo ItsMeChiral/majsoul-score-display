@@ -8,7 +8,7 @@ What this does:
 - Uses Tesseract to attempt to interpret score (I honestly don't remember how I got Tesseract to work, but I'm sure it's a lot easier to do than it felt to me at the time.)
 - Applies a customisable rank bonus to the ingame score to predict the final outcome of the match
 - Accepts an input for starting score on launch (For longer league formats)
-- Outputs: The predicted change in score for the current match (top), the current score in the match (middle) and the predicted final score given the initial score input (bottom). Currently it colour codes the final scores based on who has the most points, it was made for the final of an event so only 4 players were left.
+- Outputs: The predicted change in score for the current match (top), the current score in the match (middle) and the predicted final score given the initial score input (bottom). Currently it colour codes the final scores based on who has the most points, it was made for the final of an event so there'd be a player very clearly in 1st, 2nd and 3rd...
 - On a key press of 1 (default): It will attempt to take screenshots of the ingame scores, update the display, then automatically switch the perspective to the player to the right. Ideally this is to be used when the dealer switches.
 - On a key press of 3 (default): It will attempt to take screenshots of the ingame scores and update the display but will not switch perspective. This is meant for when the dealer earns a repeat.
 
