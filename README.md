@@ -21,7 +21,9 @@ What this does not do but it would be great if it would:
 - Work when the gap between two players is less than 5000 while one is +ve and one -ve or if there are more than 5 riichi sticks in the pot for a hand (This could be fixed if you took scores by another method, or were able to train Tesseract into reading the riichi stick count's font, the problem's here because I have a sanity check which makes sure all the scores total to between 95,000 and 100,000, but knowing the amount of riichi sticks lets me know the total score at all times instead of just setting a tolerance)
 
 Example of raw output:
+
 ![Raw output](https://cdn.discordapp.com/attachments/270668804030201856/971417364887396372/unknown.png)
 
 Example of how it looks after doing OBS alchemy:
+
 ![I never lined it up quite right, well I should fix that before the next one](https://cdn.discordapp.com/attachments/270668804030201856/971417921349902386/unknown.png)
