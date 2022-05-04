@@ -24,6 +24,6 @@ Example of raw output:
 
 ![Raw output](https://cdn.discordapp.com/attachments/270668804030201856/971417364887396372/unknown.png)
 
-Example of how it looks after doing OBS alchemy:
+Example of how it could look after doing OBS alchemy (Wow I really need to realign those for the next big event.):
 
 ![I never lined it up quite right, well I should fix that before the next one](https://cdn.discordapp.com/attachments/270668804030201856/971417921349902386/unknown.png)
